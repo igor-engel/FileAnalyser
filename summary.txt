@@ -1,0 +1,5 @@
+fileName: input.txt
+rowsCount: 4
+lettersCount: 29
+symbolsStatistics: {d=3, e=1, f=3, g=3, h=3, j=1, k=2, s=1, а=3, в=5, и=4}
+top3PopularSymbols: [[в], [и], [d, f, g, h, а]]
